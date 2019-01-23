@@ -8,6 +8,7 @@ import io.netty.util.CharsetUtil;
 
 /**
  * 客户端处理类
+ * @author yu
  */
 public class NettyClientHandler extends ChannelInboundHandlerAdapter{
 
